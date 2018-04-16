@@ -17,6 +17,3 @@ Hello! Are you a Java developer? If yes, then this repository is for you! There 
 Файл LightBlueTheme.css - голубая тема.
 Файл BlueTheme.css - синяя тема.
 Файл VioletTheme.css - фиолетовая тема.
-
-In English, so everything is clear
-
